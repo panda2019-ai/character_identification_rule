@@ -1,0 +1,2 @@
+# character_identification_rule
+基于规则和相似度的角色识别系统
