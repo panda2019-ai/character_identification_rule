@@ -3,3 +3,5 @@ python/data/web_text_zh_train.json
 python/data/web_text_zh_testa.json
 python/data/baike_qa_valid.json
 python/data/baike_qa_train.json
+python/baike_qa_train_feature.txt
+python/baike_qa_valid_feature.txt
